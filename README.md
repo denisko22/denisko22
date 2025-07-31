@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Zhurav Denys </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/deniszurav">
+  <a href="https://github.com/denisko22">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7EF&size=24&center=true&vCenter=true&width=800&height=100&lines=Cybersecurity+Student+%7C+SOC+Analyst+Trainee;CTF+Player+%7C+Binance+CyberCamp+Winner;Full-Stack+Developer+(MERN);Actively+learning+HackTheBox+and+TryHackMe;OSINT+%7C+Web+Security+%7C+MITRE+ATT%26CK+Framework;Let’s+secure+the+world+together!+%F0%9F%94%91" />
 </a>
 
